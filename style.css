@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+.nav li{ font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;
+
+}
+.nav-tabs{
+    border-bottom: 0 !important;
+}
+
+.arifcolor{
+    color: gray ;
+}
+.arifcolor:hover{
+    color:  #C6D80C;
+}
+.nav-link.active {
+    color: #C6D80C !important;
+    background-color: #f8f9fa!important;
+    border: 0 !important;
+    border-color:none !important;
+}
+.nav-link:hover{
+    border: 0 !important;
+}
